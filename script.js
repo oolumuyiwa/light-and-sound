@@ -30,10 +30,10 @@ document.getElementById("startBtn").classList.remove("hidden");
 }
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
-  4: 466.2
+  1: 256.6,
+  2: 324.6,
+  3: 380,
+  4: 453.2
 }
 function playTone(btn,len){ 
   o.frequency.value = freqMap[btn]
