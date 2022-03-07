@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Oluwatomiwa Olumuyiwa**
 
-Time spent: **#** hours spent in total
+Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://elegant-basalt-windshield.glitch.me)
 
 ## Required Functionality
 
@@ -23,7 +23,7 @@ The following **required** functionality is complete:
 The following **optional** features are implemented:
 
 * [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
@@ -72,7 +72,7 @@ Given a few more hours, I’d probably make it display clues at a much faster ra
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [OLUWATOMIWA OLUMUYIWA]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
