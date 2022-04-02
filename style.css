@@ -187,6 +187,12 @@ h2 {
 #button4{
     background: lightyellow;
 }
+#button5{
+    background: lavender
+}
+#button6{
+    background: #FFD580
+}
 #button1:active, #button1.lit{
     background:green;
 }
@@ -199,7 +205,12 @@ h2 {
 #button4:active, #button4.lit{
     background:yellow;
 }
-
+#button5:active, #button5.lit{
+  background:purple;
+}
+#button6:active, #button6.lit{
+  background:orange;
+}
 /* Button dip
 - Toggling this class on and off will move it down and up again
 - The button transition property above determines the speed of the translate (500ms)
